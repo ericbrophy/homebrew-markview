@@ -1,6 +1,6 @@
 cask "markview" do
-  version "0.1.1"
-  sha256 "c77ca7c4aecdcb080d354d6c1e4e96ec12e805a240b039a2d12544d7c879e728"
+  version "0.1.2"
+  sha256 "426cb90fcab94a3724e667c33d4b904ebc8f580cac7a2edcaad917384998f8e9"
 
   url "https://github.com/ericbrophy/homebrew-markview/releases/download/v#{version}/markview_#{version}_universal.dmg"
   name "markview"
